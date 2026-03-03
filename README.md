@@ -4,7 +4,8 @@
 
 # Model working
 
-[![AI Assistant Luna](https://img.youtube.com/vi/hiymIxdmTxw/maxresdefault.jpg)](https://youtu.be/hiymIxdmTxw)
+[<img width="607" height="353" alt="image" src="https://github.com/user-attachments/assets/ac7f334d-7cb6-46eb-9b81-429d9c79086f" />
+(https://img.youtube.com/vi/hiymIxdmTxw/maxresdefault.jpg)](https://youtu.be/hiymIxdmTxw)
 
 
 ## 🚀 Key Features
