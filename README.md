@@ -4,8 +4,9 @@
 
 # Model working
 
-[<img width="607" height="353" alt="image" src="https://github.com/user-attachments/assets/ac7f334d-7cb6-46eb-9b81-429d9c79086f" />
-(https://img.youtube.com/vi/hiymIxdmTxw/maxresdefault.jpg)](https://youtu.be/hiymIxdmTxw)
+<img width="607" height="353" alt="image" src="https://github.com/user-attachments/assets/790b69cf-b59d-44e1-b325-545cc5e2d660" />
+
+[(https://img.youtube.com/vi/hiymIxdmTxw/maxresdefault.jpg)](https://youtu.be/hiymIxdmTxw)
 
 
 ## 🚀 Key Features
